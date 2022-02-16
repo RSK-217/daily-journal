@@ -1,0 +1,19 @@
+.dateForm__entryDate {
+    display: flex;
+    flex-direction: column;
+}
+
+.conceptForm__concept{
+    display: flex;
+    flex-direction: column;
+}
+
+.journalForm__journal {
+    display: flex;
+    flex-direction: column;
+}
+
+.moodForm__mood {
+    display: flex;
+    flex-direction: column;
+}
